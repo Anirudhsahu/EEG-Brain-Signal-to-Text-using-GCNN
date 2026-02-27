@@ -22,7 +22,7 @@ What it does:
   - `zuco2_nr_eeg_ready.pkl` (model-ready)
   - `zuco2_nr_eeg_ready.csv` (human-readable export)
 
-📌 Expected input:
+Expected input:
 - Put your `.mat` files inside:
 
 ---
