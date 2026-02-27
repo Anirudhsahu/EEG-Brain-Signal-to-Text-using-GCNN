@@ -2,7 +2,7 @@
 
 This repo contains a complete **end-to-end notebook pipeline** that loads EEG features from ZuCo-style MATLAB `.mat` files, builds a model-ready dataset, splits train/test by subject, visualizes the data, and trains a baseline EEG→Text model in PyTorch.
 
-> ✅ Main artifacts in this repo are the `.ipynb` notebooks listed below.
+>  Main artifacts in this repo are the `.ipynb` notebooks listed below.
 
 ---
 
